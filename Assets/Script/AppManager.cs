@@ -237,7 +237,7 @@ public class AppManager : MonoBehaviour
 
     public void CopyHashTag()
     {
-        UniPasteBoard.SetClipBoardString("#bloopfestival #uncensoredapp #ino #funkthepower #santantoni #eivissa #streetart #openairgallery");
+        UniPasteBoard.SetClipBoardString("#bloopfestival #uncensoredapp #ino #funkthepower #santantoni #eivissa #streetart #openairgallery #nocensorship #ibiza");
         //confMess.SetActive(true);
         //StartCoroutine(DisableMessage());      
     }
